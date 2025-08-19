@@ -4,7 +4,6 @@ permalink: /publications/
 sidebar: false
 ---
 
-# Publications
 
 My work focuses on the degradation and lifetime of structural and electrochemical materials.
 
