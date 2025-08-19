@@ -2,6 +2,7 @@
 title: "CV"
 permalink: /cv/
 sidebar: false
+layout: single
 ---
 
 # Curriculum Vitae
