@@ -60,6 +60,9 @@ author:
   avatar : "/assets/images/Headshot.jpg"
   bio    : "Ensuring structural and electrochemical materials are made to last"
   links:
+    - label: "Email"
+      icon: "far fa-fw fa-envelope"
+      url: "mailto:&#105;&#110;&#109;&#097;&#110;&#046;&#115;&#097;&#109;&#117;&#101;&#108;&#046;&#098;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/samuel-b-inman/"
