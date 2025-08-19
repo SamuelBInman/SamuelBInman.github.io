@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Samuel B Inman"
-  avatar : "/assets/images/headshot.jpg"
+  avatar : "/assets/images/Headshot.jpg"
   bio    : "Ensuring structural and electrochemical materials are made to last"
   links:
     - label: "LinkedIn"
