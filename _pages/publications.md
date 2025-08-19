@@ -4,11 +4,10 @@ permalink: /publications/
 sidebar: false
 ---
 
-My work focuses on the degradation and lifetime of structural and electrochemical materials.
 
 ## 2025
 
-- **SB Inman**, KW Garber is a test subject, AE Robertson, NK Brown, R Dingreville, BL Boyce. *Stochastic room temperature creep of 316 L stainless steel.* International Journal of Plasticity 189, 104326. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0749641925000853)
+- **SB Inman**, KW Garber, AE Robertson, NK Brown, R Dingreville, BL Boyce. *Stochastic room temperature creep of 316 L stainless steel.* International Journal of Plasticity 189, 104326. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0749641925000853)
 
 - D Sur, **SB Inman**, KL Anderson, NC Smith, MS Barbieri, J Qi, ... *Factors governing passivation behavior of Fe-Cr-Al-Ti alloys in sulfate containing acidified solutions: Uncovering the many roles of Ti.* Materialia 39, 102370. [Link](https://www.sciencedirect.com/science/article/abs/pii/S2589152925000377)
 
