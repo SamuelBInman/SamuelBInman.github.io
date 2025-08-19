@@ -2,6 +2,7 @@
 title: "Teaching"
 permalink: /teaching/
 sidebar: false
+layout: single
 ---
 # Teaching Experience
 
