@@ -1,5 +1,3 @@
-
-
 ---
 title: "Publications"
 permalink: /publications/
