@@ -2,6 +2,7 @@
 title: "Publications"
 permalink: /publications/
 sidebar: false
+layout: single
 ---
 
 
