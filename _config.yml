@@ -98,11 +98,12 @@ defaults:
   # _pages
   - scope:
       path: "_pages"
-      type: pages
+      type: "pages"
     values:
-      layout: single
+      layout: page
       author_profile: true
-
+      sidebar: false
+      
 category_archive:
   type: liquid
   path: /categories/
