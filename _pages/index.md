@@ -18,4 +18,3 @@ My work bridges fundamental insights with practical applications to improve the 
 - [Publications](publications/) – Full list of papers and links to journals.  
 - [Teaching](teaching/) – Courses taught, TA experience, and tutoring.  
 - [CV](cv/) – Downloadable PDF of my curriculum vitae.  
-- [Contact](contact/) – Reach out via email or find me online.
