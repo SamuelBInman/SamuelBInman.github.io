@@ -75,7 +75,7 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/samuel-b-inman/"
-      - label: "Google Scholar"
+    - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=bAFenwEAAAAJ&hl=en"
     - label: "Orcid"
