@@ -4,7 +4,7 @@ permalink: /
 layout: home
 ---
 
-# Welcome
+# Thank you for the paitence while this site is under construction
 
 I study the **degradation and lifetime of structural and electrochemical materials**, focusing on understanding why materials fail and designing alloys that endure in demanding environments.  
 
