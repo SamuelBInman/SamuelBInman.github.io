@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Samuel B Inman"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I develop insights and strategies to improve the durability of structural and electrochemical materials, bridging fundamental science with practical applications."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
