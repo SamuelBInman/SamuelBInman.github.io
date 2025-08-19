@@ -70,6 +70,19 @@ author:
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0002-2535-4150"
 
+header:
+  logo:
+    text: "Samuel B. Inman"
+  links:
+    - title: "About"
+      url: /about/
+    - title: "Publications"
+      url: /publications/
+    - title: "Teaching"
+      url: /teaching/
+    - title: "CV"
+      url: /cv/
+      
 footer:
   links:
     - label: "LinkedIn"
