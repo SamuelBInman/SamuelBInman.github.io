@@ -55,6 +55,18 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Tell it to use YOUR nav instead of the defaults
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      related: false
+
+# Navigation
 main:
   - title: "Home"
     url: /
