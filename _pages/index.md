@@ -1,7 +1,7 @@
 ---
 title: Samuel B. Inman
 permalink: /
-layout: home
+layout: single
 entries_layout: grid
 show_excerpts: false
 paginate: false   # <— stops the recent posts section
