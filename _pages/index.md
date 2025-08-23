@@ -2,7 +2,11 @@
 title: Samuel B. Inman
 permalink: /
 layout: home
+entries_layout: grid
+show_excerpts: false
+paginate: false   # <— stops the recent posts section
 ---
+
 
 # Thank you for the paitence while this site is under construction
 
