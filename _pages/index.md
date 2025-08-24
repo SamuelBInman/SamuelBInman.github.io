@@ -29,8 +29,7 @@ My work bridges fundamental insights with practical applications to improve the 
     <!-- Slide 2 -->
     <div class="slide">
       <img src=assets/images/FeCrAlTi.jpg" alt="Multi-cation Passivity">
-      <p><strong>Multi-cation Passivity:</strong> How can multiple cations working together coexist in the passive film... and improve the long-term stablility?  
-      <a href="/research/">See teaching →</a></p>
+      <p><strong>Multi-cation Passivity:</strong> How can multiple cations working together coexist in the passive film... and improve the long-term stablility?  [Learn More](https://www.sciencedirect.com/science/article/abs/pii/S2589152925000377)
     </div>
 
     <!-- Slide 3 -->
