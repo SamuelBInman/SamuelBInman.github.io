@@ -28,9 +28,9 @@ My work bridges fundamental insights with practical applications to improve the 
 
     <!-- Slide 2 -->
     <div class="slide">
-      <img src="assets/images/FeCrAlTi.jpg" alt="Multi-cation Passivity">
-      <p><strong>Multi-cation Passivity:</strong> How can multiple cations working together coexist in the passive film... and improve the long-term stablility?  
-      <a href="https://www.sciencedirect.com/science/article/abs/pii/S2589152925000377" target="_blank">Learn More</a>
+      <img src="/assets/images/FeCrAlTi.jpg" alt="Multi-cation Passivity">
+      <p><strong>Multi-cation Passivity:</strong> How can multiple cations working together coexist in the passive film... and improve the long-term stability?  
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S2589152925000377" target="_blank">Learn More</a></p>
     </div>
 
     <!-- Slide 3 -->
@@ -48,7 +48,7 @@ My work bridges fundamental insights with practical applications to improve the 
 
 <script>
 let currentSlide = 0;
-const slides = document.querySelectorAll(".slide");
+let slides;
 
 function showSlide(index) {
   slides.forEach((slide, i) => {
@@ -62,7 +62,10 @@ function moveSlide(step) {
   showSlide(currentSlide);
 }
 
-document.addEventListener("DOMContentLoaded", () => showSlide(currentSlide));
+document.addEventListener("DOMContentLoaded", () => {
+  slides = document.querySelectorAll(".slide");
+  showSlide(currentSlide);
+});
 </script>
 
 <style>
@@ -93,19 +96,23 @@ document.addEventListener("DOMContentLoaded", () => showSlide(currentSlide));
   cursor: pointer;
   position: absolute;
   top: 50%;
+  transform: translateY(-50%);
   padding: 12px;
   color: #333;
   font-weight: bold;
-  font-size: 24px;
+  font-size: 28px;
   transition: 0.3s;
   user-select: none;
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 50%;
+  z-index: 1000;
 }
 
-.next { right: 0; }
-.prev { left: 0; }
+.next { right: 10px; }
+.prev { left: 10px; }
 
 .prev:hover, .next:hover {
-  background-color: rgba(0,0,0,0.1);
-  border-radius: 50%;
+  background-color: rgba(0,0,0,0.2);
+  color: white;
 }
 </style>
