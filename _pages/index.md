@@ -1,7 +1,7 @@
 ---
 title: Samuel B. Inman
 permalink: /
-layout: single
+layout: home
 entries_layout: grid
 show_excerpts: false
 paginate: false   # <— stops the recent posts section
@@ -28,8 +28,9 @@ My work bridges fundamental insights with practical applications to improve the 
 
     <!-- Slide 2 -->
     <div class="slide">
-      <img src=assets/images/FeCrAlTi.jpg" alt="Multi-cation Passivity">
-      <p><strong>Multi-cation Passivity:</strong> How can multiple cations working together coexist in the passive film... and improve the long-term stablility?  [Learn More](https://www.sciencedirect.com/science/article/abs/pii/S2589152925000377)
+      <img src="assets/images/FeCrAlTi.jpg" alt="Multi-cation Passivity">
+      <p><strong>Multi-cation Passivity:</strong> How can multiple cations working together coexist in the passive film... and improve the long-term stablility?  
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S2589152925000377" target="_blank">Learn More</a>
     </div>
 
     <!-- Slide 3 -->
