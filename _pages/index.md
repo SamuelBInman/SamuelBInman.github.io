@@ -28,9 +28,9 @@ My work bridges fundamental insights with practical applications to improve the 
 
     <!-- Slide 2 -->
     <div class="slide">
-      <img src="/assets/images/slide2.jpg" alt="Teaching Highlight">
-      <p><strong>Teaching Highlight:</strong> Developing future leaders in materials science.  
-      <a href="/teaching/">See teaching →</a></p>
+      <img src=assets/images/FeCrAlTi.jpg" alt="Multi-cation Passivity">
+      <p><strong>Multi-cation Passivity:</strong> How can multiple cations working together coexist in the passive film... and improve the long-term stablility?  
+      <a href="/research/">See teaching →</a></p>
     </div>
 
     <!-- Slide 3 -->
