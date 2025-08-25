@@ -7,7 +7,6 @@ show_excerpts: false
 paginate: false   # <— stops the recent posts section
 ---
 
-# Thank you for the patience while this site is under construction
 
 I study the **degradation and lifetime of structural and electrochemical materials**, focusing on understanding why materials fail and designing alloys that endure in demanding environments.  
 
@@ -21,9 +20,9 @@ My work bridges fundamental insights with practical applications to improve the 
   <div class="slider">
     <!-- Slide 1 -->
     <div class="slide active">
-      <img src="/assets/images/slide1.jpg" alt="Research Highlight 1">
-      <p><strong>Research Highlight:</strong> Microstructure as a tool for predicting corrosion resistance.  
-      <a href="/research/">Learn more →</a></p>
+      <img src="/assets/images/MultiPhase.png" alt="Multi Phase Passivity">
+      <p><strong>Corroison Behavior of Mulit-Phase Alloys:</strong> How do we isolate the corrosion behavior of mulit-phase alloys into contributions from each individual phase?  
+      <a href="https://link.springer.com/article/10.1007/s11661-024-07572-9">Learn more →</a></p>
     </div>
 
     <!-- Slide 2 -->
@@ -35,9 +34,9 @@ My work bridges fundamental insights with practical applications to improve the 
 
     <!-- Slide 3 -->
     <div class="slide">
-      <img src="/assets/images/slide3.jpg" alt="Publications Highlight">
-      <p><strong>Publications:</strong> Selected works in corrosion and alloy design.  
-      <a href="/publications/">Read more →</a></p>
+      <img src="/assets/images/StochasticCreep.jpg" alt="Stochastic Room Temperature Creep">
+      <p><strong>Stochastic Behavior of RT Creep:</strong> How much does sample-to-sample variation affect room temperature creep? Can this extrapolate into lifespen predictions?
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0749641925000853">Read more →</a></p>
     </div>
   </div>
 
