@@ -35,7 +35,7 @@ My work bridges fundamental insights with practical applications to improve the 
     <!-- Slide 3 -->
     <div class="slide">
       <img src="/assets/images/StochasticCreep.jpg" alt="Stochastic Room Temperature Creep">
-      <p><strong>Stochastic Behavior of RT Creep:</strong> How much does sample-to-sample variation affect room temperature creep? Can this extrapolate into lifespen predictions?
+      <p><strong>Stochastic Behavior of RT Creep:</strong> How much does sample-to-sample variation affect room temperature creep? Can this extrapolate into lifespan predictions?
       <a href="https://www.sciencedirect.com/science/article/abs/pii/S0749641925000853">Read more →</a></p>
     </div>
   </div>
