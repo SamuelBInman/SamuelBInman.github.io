@@ -20,7 +20,7 @@ My work bridges fundamental insights with practical applications to improve the 
   <div class="slider">
     <!-- Slide 1 -->
     <div class="slide active">
-      <img src="/assets/images/MultiPhase.png" alt="Multi Phase Passivity">
+      <img src="/assets/images/MultiPhase.jpg" alt="Multi Phase Passivity">
       <p><strong>Corroison Behavior of Multi-Phase Alloys:</strong> How do we isolate the corrosion behavior of multi-phase alloys into contributions from each individual phase?  
       <a href="https://link.springer.com/article/10.1007/s11661-024-07572-9">Learn more →</a></p>
     </div>
